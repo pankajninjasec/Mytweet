@@ -36,7 +36,7 @@ adminpankaj
 password
 
 ## Technology Stack Used..
-I am using python language and its framework django with sqlite3 database, best server I will prefer for django is Gunicorn with heroku , For all type of styling I used bootstrap which have already made classes to make UI fast , we can scale this app using workers scripts which can identifies any overload and create a new django process. 
+I am using python language and its framework django with sqlite3 database, best server I will prefer for django is Gunicorn with heroku , For all type of styling I used bootstrap which have already made classes to make UI fast , we can scale this app using workers scripts which can identifies any overload and create a new django process , we can also use catching server like radis which can save data in catch and using during reload of site , possiblities are endless..... ;) 
 ### programming language used
 python
 
