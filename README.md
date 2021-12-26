@@ -34,3 +34,8 @@ testing123456@D
 ## Superuser account ==> admin
 adminpankaj
 password
+
+## Technology Stack Used..
+
+### programming language used
+python
