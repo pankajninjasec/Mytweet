@@ -208,8 +208,6 @@ class FollowersListView(ListView):
         return data
 
 
-# Like Functionality====================================================================================
-
 @login_required
 def postpreference(request, postid, userpreference):
         
